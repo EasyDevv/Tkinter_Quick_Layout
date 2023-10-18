@@ -9,8 +9,7 @@ This repository will help you create complex layouts when building Tkinter and C
 
 ## Download
 
-Go to the [GitHub releases page](https://github.com/EasyDevv/Tkinter-Quick-Layout/releases) and click on `Assets` at the bottom to show the files available in the release
-
+Go to the [GitHub releases page](https://github.com/EasyDevv/Tkinter_Quick_Layout/releases), and download the exe file from the `Assets`.
 
 ## Usage
 
