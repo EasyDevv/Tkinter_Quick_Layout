@@ -19,8 +19,8 @@ Go to the [GitHub releases page](https://github.com/EasyDevv/Tkinter_Quick_Layou
 - ◀ ▶ : Column
 - ▲▲ ▼▼ : Row span
 - ◀◀ ▶▶ : Column span
-- ✓ : Copy
-- X : Close
+- ✓ : Copy to clipboard
+- X : Remove Frame
 
 
 ![usage_01](./doc/images/usage_01.webp)
